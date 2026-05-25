@@ -95,9 +95,11 @@ class PranavCharan:
 
 ### 📜 Certifications
 
-- 🛡️ **Defensive Coding Fundamentals of C/C++** — Infosys Springboard
-- 🐍 **Python Fundamentals for Beginners** — Great Learning
-- ⚡ **Fundamentals of Electronics and Device Fabrication** — NPTEL
+-  **Defensive Coding Fundamentals of C/C++** — Infosys Springboard
+-  **Python Fundamentals for Beginners** — Great Learning
+-  **Fundamentals of Electronics and Device Fabrication** — NPTEL
+-  **Full-Stack Web Development With Django and Angular** — Infosys Springboard
+-  **Prompt Engineering for Everyone** — CongnitiveClass.ai(IBM)
 
 ---
 
